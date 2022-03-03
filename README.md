@@ -1,6 +1,6 @@
 ## <Hello World, I'm Rodrigo!/>
 
-- 🌱 I’m currently learning NextJS, ReactJS, Typescript, MirageJS
+- 🌱 I’m currently learning NextJS, ReactJS, Typescript, NodeJS
 - 💬 Ask me about Games/Coding
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
