@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently working with NextJS, ReactJS, Typescript, NodeJS
 - 💬 Ask me about Games/Coding
-- - ⚡ Fun fact: Harry Potter 
+- ⚡ Fun fact: Harry Potter 
 <!-- - 📫 How to reach me: ... -->
 
 <div>
