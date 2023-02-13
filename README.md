@@ -1,7 +1,7 @@
 ## What's up, I'm Rodrigo.
 
 - 🌱 I’m currently work with NextJS, Typescript and NodeJS.
-- 💬 Ask me about Games/Coding/
+- 💬 Ask me about Games/Coding
 - ⚡ Fun fact: I'm Funny
 <!-- - 📫 How to reach me: ... -->
 
