@@ -1,8 +1,8 @@
-## <Hi, There. I'm Rodrigo!/>
+## What's up, I'm Rodrigo.
 
-- 🌱 I’m currently working with NextJS, ReactJS, Typescript, NodeJS
-- 💬 Ask me about Games/Coding
-- ⚡ Fun fact: Harry Potter is the movie
+- 🌱 I’m currently work with NextJS, Typescript and NodeJS.
+- 💬 Ask me about Games/Coding/
+- ⚡ Fun fact: I'm Funny
 <!-- - 📫 How to reach me: ... -->
 
 <div>
