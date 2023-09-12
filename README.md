@@ -14,12 +14,13 @@
   <img align="center" alt="Rod-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rod-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rod-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rod-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+  <img align="center" alt="Rod-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
+  <img align="center" alt="Rod-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
   <img align="center" alt="Rod-Node.Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Rod-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
   <img align="center" alt="Rod-Docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Rod-Jenkins" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Rod-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rod-AWS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
 </div>
 
  ##
