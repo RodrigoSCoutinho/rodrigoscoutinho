@@ -1,26 +1,21 @@
-## What's up, I'm Rodrigo.
+<h2 align="center" style="font-family: Consolas, monospace;">
+    [~] $ whoami
+</h2>
 
-- 🌱 I’m currently work with NextJS, Prisma and NestJS.
+<p align="center">
+   <strong>
+         <a href="https://www.linkedin.com/in/rodrigocoutinhodev/">Linkedln</a>
+          •
+         <a href="https://rodrigo-dev.vercel.app/">Portfolio</a>
+         •
+         <a href="geometry-3d.vercel.app">ThreeJS Project</a>
+   </strong>
+</p>
+
+## Hi There, I'm Rodrigo.
+
+- 🇧🇷: Brazilian (Natal / RN)
+- 🔭 I’m currently work with NodeJS, Java, Go.
 - 💬 Ask me about Three.js
-- ⚡ Fun fact: I'm fond of Harry Potter
-<!-- - 📫 How to reach me: ... -->
+- 💻 Information Sytems at [IFRN](https://portal.ifrn.edu.br/)
 
-<div>
-  <a href="https://github.com/RodrigoSCoutinho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoSCoutinho&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoSCoutinho&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rod-JS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rod-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rod-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rod-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg">
-  <img align="center" alt="Rod-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
-  <img align="center" alt="Rod-Node.Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rod-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg">
-  <img align="center" alt="Rod-Docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Rod-Jenkins" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img align="center" alt="Rod-AWS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-</div>
-
- ##
