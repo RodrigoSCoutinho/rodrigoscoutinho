@@ -15,7 +15,7 @@
 ## Hi There, I'm Rodrigo.
 
 - 🇧🇷: Brazilian (Natal / RN)
-- 🔭 I’m currently work with NodeJS, Java, Go.
+- 🔭 I currently work with these technologies: NodeJS, Java and Go.
 - 💬 Ask me about Three.js
 - 💻 Information Sytems at [IFRN](https://portal.ifrn.edu.br/)
 
