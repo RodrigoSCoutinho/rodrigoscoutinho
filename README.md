@@ -17,5 +17,5 @@
 - 🇧🇷: Brazilian (Natal / RN)
 - 🔭 I currently work with these technologies: NodeJS, Java and Go.
 - 💬 Ask me about Three.js
-- 💻 Information Sytems at [IFRN](https://portal.ifrn.edu.br/)
+- 💻 Information Systems at [IFRN](https://portal.ifrn.edu.br/)
 
