@@ -8,7 +8,7 @@
           •
          <a href="https://rodrigo-dev.vercel.app/">Portfolio</a>
          •
-         <a href="game-development-3d.vercel.app">ThreeJS Project</a>
+         <a href="https://game-development-3d.vercel.app">ThreeJS Project</a>
    </strong>
 </p>
 
