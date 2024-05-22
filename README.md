@@ -9,5 +9,23 @@
 - 💬 Ask me about Computer Architecture.
 - 💻 Information Systems at [IFRN](https://portal.ifrn.edu.br/)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="cover" />
+```bash
+#!/bin/bash
 
+echo "Conectando à Cafeteria..."
+echo "Bem-vindo, $USER!"
+
+while true; do
+  echo -e "\nMenu:\n1. Espresso\n2. Latte\n3. Cappuccino\n4. Mocha\n5. Macchiato\n6. Sair"
+  read -p "Escolha seu café: " choice
+  case $choice in
+    1) echo "Espresso a caminho..." ;;
+    2) echo "Latte a caminho..." ;;
+    3) echo "Cappuccino a caminho..." ;;
+    4) echo "Mocha a caminho..." ;;
+    5) echo "Macchiato a caminho..." ;;
+    6) echo "Saindo..." && exit 0 ;;
+    *) echo "Opção inválida" ;;
+  esac
+  echo "Seu café está pronto! ☕"
+done
